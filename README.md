@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=🎮+Game+Developer;💻+Vibe+Coder;🌟+HTML+Enthusiast;🚀+GDScript+Wizard;🎯+Creative+Innovator;💎+Cyan+Diamond+Member" alt="Typing SVG" />
 </div>
 
+<style>
+@keyframes fill50 { from { width: 0%; } to { width: 50%; } }
+@keyframes fill70 { from { width: 0%; } to { width: 70%; } }
+@keyframes fill40 { from { width: 0%; } to { width: 40%; } }
+</style>
+
 ---
 
 ## 🎯 About Me
@@ -48,49 +54,37 @@ I proudly work at **Cyan Diamond Studio** 🌟, a vibrant game/app development s
     <tr>
       <td><b>GDScript</b> 🎮</td>
       <td>
-        <svg width="200" height="25">
-          <rect x="0" y="0" width="200" height="25" fill="#ddd" rx="12.5"/>
-          <rect x="0" y="0" height="25" fill="linear-gradient(90deg, #00ff00, #00aa00)" rx="12.5">
-            <animate attributeName="width" from="0" to="100" dur="2s" fill="freeze"/>
-          </rect>
-          <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="white" font-weight="bold">50%</text>
-        </svg>
+        <div style="background: #ddd; width: 200px; height: 25px; border-radius: 12.5px; position: relative;">
+          <div style="background: linear-gradient(90deg, #00ff00, #00aa00); height: 100%; border-radius: 12.5px; animation: fill50 2s ease-in-out;"></div>
+          <span style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); color: white; font-weight: bold; line-height: 25px;">50%</span>
+        </div>
       </td>
     </tr>
     <tr>
       <td><b>HTML</b> 🌐</td>
       <td>
-        <svg width="200" height="25">
-          <rect x="0" y="0" width="200" height="25" fill="#ddd" rx="12.5"/>
-          <rect x="0" y="0" height="25" fill="linear-gradient(90deg, #ff4500, #ff6600)" rx="12.5">
-            <animate attributeName="width" from="0" to="100" dur="2s" fill="freeze"/>
-          </rect>
-          <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="white" font-weight="bold">50%</text>
-        </svg>
+        <div style="background: #ddd; width: 200px; height: 25px; border-radius: 12.5px; position: relative;">
+          <div style="background: linear-gradient(90deg, #ff4500, #ff6600); height: 100%; border-radius: 12.5px; animation: fill50 2s ease-in-out;"></div>
+          <span style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); color: white; font-weight: bold; line-height: 25px;">50%</span>
+        </div>
       </td>
     </tr>
     <tr>
       <td><b>Art</b> 🎨</td>
       <td>
-        <svg width="200" height="25">
-          <rect x="0" y="0" width="200" height="25" fill="#ddd" rx="12.5"/>
-          <rect x="0" y="0" height="25" fill="linear-gradient(90deg, #ff69b4, #dda0dd)" rx="12.5">
-            <animate attributeName="width" from="0" to="140" dur="2s" fill="freeze"/>
-          </rect>
-          <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="white" font-weight="bold">70%</text>
-        </svg>
+        <div style="background: #ddd; width: 200px; height: 25px; border-radius: 12.5px; position: relative;">
+          <div style="background: linear-gradient(90deg, #ff69b4, #dda0dd); height: 100%; border-radius: 12.5px; animation: fill70 2s ease-in-out;"></div>
+          <span style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); color: white; font-weight: bold; line-height: 25px;">70%</span>
+        </div>
       </td>
     </tr>
     <tr>
       <td><b>Pixel Art</b> 🖼️</td>
       <td>
-        <svg width="200" height="25">
-          <rect x="0" y="0" width="200" height="25" fill="#ddd" rx="12.5"/>
-          <rect x="0" y="0" height="25" fill="linear-gradient(90deg, #1e90ff, #00bfff)" rx="12.5">
-            <animate attributeName="width" from="0" to="80" dur="2s" fill="freeze"/>
-          </rect>
-          <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="white" font-weight="bold">40%</text>
-        </svg>
+        <div style="background: #ddd; width: 200px; height: 25px; border-radius: 12.5px; position: relative;">
+          <div style="background: linear-gradient(90deg, #1e90ff, #00bfff); height: 100%; border-radius: 12.5px; animation: fill40 2s ease-in-out;"></div>
+          <span style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); color: white; font-weight: bold; line-height: 25px;">40%</span>
+        </div>
       </td>
     </tr>
   </table>
