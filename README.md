@@ -1,6 +1,50 @@
 # 👋 Hi, I'm Shayan!
 
-<link rel="stylesheet" href="styles.css">
+<style>
+@keyframes fill55 { from { width: 0%; } to { width: 55%; } }
+@keyframes fill50 { from { width: 0%; } to { width: 50%; } }
+@keyframes fill70 { from { width: 0%; } to { width: 70%; } }
+@keyframes fill40 { from { width: 0%; } to { width: 40%; } }
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes slideInLeft {
+  from { transform: translateX(-100%); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+
+.progress-bar {
+  background: #ddd;
+  width: 200px;
+  height: 25px;
+  border-radius: 12.5px;
+  position: relative;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.progress-fill {
+  height: 100%;
+  border-radius: 12.5px;
+  transition: width 2s ease-in-out;
+}
+
+.progress-text {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  font-weight: bold;
+  line-height: 25px;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+}
+</style>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=🎮+Game+Developer;💻+Vibe+Coder;🌟+HTML+Enthusiast;🚀+GDScript+Wizard;🎯+Creative+Innovator;💎+Cyan+Diamond+Member" alt="Typing SVG" />
@@ -47,6 +91,15 @@ I proudly work at **Cyan Diamond Studio** 🌟, a vibrant game/app development s
 
 <div align="center" style="animation: fadeIn 3s;">
   <table>
+    <tr>
+      <td><b>Overall Proficiency</b> 🚀</td>
+      <td>
+        <div class="progress-bar">
+          <div class="progress-fill" style="background: linear-gradient(90deg, #ff1493, #ff69b4); animation: fill55 2s ease-in-out;"></div>
+          <span class="progress-text">55%</span>
+        </div>
+      </td>
+    </tr>
     <tr>
       <td><b>GDScript</b> 🎮</td>
       <td>
