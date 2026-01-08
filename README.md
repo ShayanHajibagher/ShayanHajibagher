@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shayan!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=🎮+Game+Developer;💻+Vibe+Coder;🌟+HTML+Enthusiast;🚀+GDScript+Wizard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=🎮+Game+Developer;💻+Vibe+Coder;🌟+HTML+Enthusiast;🚀+GDScript+Wizard;🎯+Creative+Innovator;💎+Cyan+Diamond+Member" alt="Typing SVG" />
 </div>
 
 ---
@@ -43,23 +43,55 @@ I proudly work at **Cyan Diamond Studio** 🌟, a vibrant game/app development s
 
 ## 📊 Skill Proficiency
 
-<div align="center">
+<div align="center" style="animation: fadeIn 3s;">
   <table>
     <tr>
-      <td><b>GDScript</b></td>
-      <td><progress value="50" max="100"></progress> 50%</td>
+      <td><b>GDScript</b> 🎮</td>
+      <td>
+        <svg width="200" height="25">
+          <rect x="0" y="0" width="200" height="25" fill="#ddd" rx="12.5"/>
+          <rect x="0" y="0" height="25" fill="linear-gradient(90deg, #00ff00, #00aa00)" rx="12.5">
+            <animate attributeName="width" from="0" to="100" dur="2s" fill="freeze"/>
+          </rect>
+          <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="white" font-weight="bold">50%</text>
+        </svg>
+      </td>
     </tr>
     <tr>
-      <td><b>HTML</b></td>
-      <td><progress value="50" max="100"></progress> 50%</td>
+      <td><b>HTML</b> 🌐</td>
+      <td>
+        <svg width="200" height="25">
+          <rect x="0" y="0" width="200" height="25" fill="#ddd" rx="12.5"/>
+          <rect x="0" y="0" height="25" fill="linear-gradient(90deg, #ff4500, #ff6600)" rx="12.5">
+            <animate attributeName="width" from="0" to="100" dur="2s" fill="freeze"/>
+          </rect>
+          <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="white" font-weight="bold">50%</text>
+        </svg>
+      </td>
     </tr>
     <tr>
-      <td><b>Art</b></td>
-      <td><progress value="70" max="100"></progress> 70%</td>
+      <td><b>Art</b> 🎨</td>
+      <td>
+        <svg width="200" height="25">
+          <rect x="0" y="0" width="200" height="25" fill="#ddd" rx="12.5"/>
+          <rect x="0" y="0" height="25" fill="linear-gradient(90deg, #ff69b4, #dda0dd)" rx="12.5">
+            <animate attributeName="width" from="0" to="140" dur="2s" fill="freeze"/>
+          </rect>
+          <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="white" font-weight="bold">70%</text>
+        </svg>
+      </td>
     </tr>
     <tr>
-      <td><b>Pixel Art</b></td>
-      <td><progress value="40" max="100"></progress> 40%</td>
+      <td><b>Pixel Art</b> 🖼️</td>
+      <td>
+        <svg width="200" height="25">
+          <rect x="0" y="0" width="200" height="25" fill="#ddd" rx="12.5"/>
+          <rect x="0" y="0" height="25" fill="linear-gradient(90deg, #1e90ff, #00bfff)" rx="12.5">
+            <animate attributeName="width" from="0" to="80" dur="2s" fill="freeze"/>
+          </rect>
+          <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="white" font-weight="bold">40%</text>
+        </svg>
+      </td>
     </tr>
   </table>
 </div>
@@ -88,6 +120,18 @@ I'm always working on new projects. Stay tuned for more game dev magic! 🪄
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
 </div>
+
+---
+
+## 🎨 My Creative Process
+
+<div align="center">
+  <div style="animation: slideInLeft 2s;">
+    <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Creative Process" width="300"/>
+  </div>
+</div>
+
+When I'm not coding, I'm sketching wild ideas, designing epic levels, and bringing immersive stories to life. Creativity is my superpower that fuels every game I create! 🖌️✨🎭
 
 ---
 
