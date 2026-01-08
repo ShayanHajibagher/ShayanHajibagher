@@ -1,14 +1,10 @@
 # 👋 Hi, I'm Shayan!
 
+<link rel="stylesheet" href="styles.css">
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=🎮+Game+Developer;💻+Vibe+Coder;🌟+HTML+Enthusiast;🚀+GDScript+Wizard;🎯+Creative+Innovator;💎+Cyan+Diamond+Member" alt="Typing SVG" />
 </div>
-
-<style>
-@keyframes fill50 { from { width: 0%; } to { width: 50%; } }
-@keyframes fill70 { from { width: 0%; } to { width: 70%; } }
-@keyframes fill40 { from { width: 0%; } to { width: 40%; } }
-</style>
 
 ---
 

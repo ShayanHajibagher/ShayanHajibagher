@@ -1,0 +1,16 @@
+@keyframes fill50 { from { width: 0%; } to { width: 50%; } }
+@keyframes fill70 { from { width: 0%; } to { width: 70%; } }
+@keyframes fill40 { from { width: 0%; } to { width: 40%; } }
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes slideInLeft {
+  from { transform: translateX(-100%); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
