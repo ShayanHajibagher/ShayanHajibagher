@@ -50,36 +50,36 @@ I proudly work at **Cyan Diamond Studio** 🌟, a vibrant game/app development s
     <tr>
       <td><b>GDScript</b> 🎮</td>
       <td>
-        <div style="background: #ddd; width: 200px; height: 25px; border-radius: 12.5px; position: relative;">
-          <div style="background: linear-gradient(90deg, #00ff00, #00aa00); height: 100%; border-radius: 12.5px; animation: fill50 2s ease-in-out;"></div>
-          <span style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); color: white; font-weight: bold; line-height: 25px;">50%</span>
+        <div class="progress-bar">
+          <div class="progress-fill" style="background: linear-gradient(90deg, #00ff00, #00aa00); animation: fill50 2s ease-in-out;"></div>
+          <span class="progress-text">50%</span>
         </div>
       </td>
     </tr>
     <tr>
       <td><b>HTML</b> 🌐</td>
       <td>
-        <div style="background: #ddd; width: 200px; height: 25px; border-radius: 12.5px; position: relative;">
-          <div style="background: linear-gradient(90deg, #ff4500, #ff6600); height: 100%; border-radius: 12.5px; animation: fill50 2s ease-in-out;"></div>
-          <span style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); color: white; font-weight: bold; line-height: 25px;">50%</span>
+        <div class="progress-bar">
+          <div class="progress-fill" style="background: linear-gradient(90deg, #ff4500, #ff6600); animation: fill50 2s ease-in-out;"></div>
+          <span class="progress-text">50%</span>
         </div>
       </td>
     </tr>
     <tr>
       <td><b>Art</b> 🎨</td>
       <td>
-        <div style="background: #ddd; width: 200px; height: 25px; border-radius: 12.5px; position: relative;">
-          <div style="background: linear-gradient(90deg, #ff69b4, #dda0dd); height: 100%; border-radius: 12.5px; animation: fill70 2s ease-in-out;"></div>
-          <span style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); color: white; font-weight: bold; line-height: 25px;">70%</span>
+        <div class="progress-bar">
+          <div class="progress-fill" style="background: linear-gradient(90deg, #ff69b4, #dda0dd); animation: fill70 2s ease-in-out;"></div>
+          <span class="progress-text">70%</span>
         </div>
       </td>
     </tr>
     <tr>
       <td><b>Pixel Art</b> 🖼️</td>
       <td>
-        <div style="background: #ddd; width: 200px; height: 25px; border-radius: 12.5px; position: relative;">
-          <div style="background: linear-gradient(90deg, #1e90ff, #00bfff); height: 100%; border-radius: 12.5px; animation: fill40 2s ease-in-out;"></div>
-          <span style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); color: white; font-weight: bold; line-height: 25px;">40%</span>
+        <div class="progress-bar">
+          <div class="progress-fill" style="background: linear-gradient(90deg, #1e90ff, #00bfff); animation: fill40 2s ease-in-out;"></div>
+          <span class="progress-text">40%</span>
         </div>
       </td>
     </tr>
