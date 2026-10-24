@@ -35,12 +35,14 @@ I proudly work at **Cyan Diamond Studio** 🌟, a vibrant game/app development s
 <div align="center">
   <img src="https://skillicons.dev/icons?i=gamedev,gdscript,html,godot,python,linux" alt="Skills" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Cybersecurity-Cisco_Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Badge" />
+  <a href="https://www.netacad.com/recognitions/verify/bc185710-7936-4ce4-b676-bdf69d86b561" target="_blank">
+    <img src="https://img.shields.io/badge/Cybersecurity-Cisco_Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Badge" />
+  </a>
 </div>
 
 - 🎮 **Game Development**: GDScript (Godot)
 - 💻 **Web Development**: HTML (some knowledge)
-- 🛡️ **Cybersecurity**: Introduction to Cybersecurity (Cisco Networking Academy Certified)
+- 🛡️ **Cybersecurity**: Introduction to Cybersecurity ([Cisco Networking Academy Certified](https://www.netacad.com/recognitions/verify/bc185710-7936-4ce4-b676-bdf69d86b561))
 - 🌟 **Other Vibes**: Python for scripting, creative coding(with ai)
 - 🎨 **Creative Tools**: Pixel art, game design, UI/UX for games
 
@@ -109,7 +111,8 @@ I proudly work at **Cyan Diamond Studio** 🌟, a vibrant game/app development s
         <th>🏅 Certificate</th>
         <th>🏛️ Issuing Organization</th>
         <th>📅 Completion Date</th>
-        <th>🔑 Certificate ID</th>
+        <th>🔑 Certificate ID & Verification</th>
+        <th>📱 Scan to Verify (QR)</th>
       </tr>
     </thead>
     <tbody>
@@ -117,7 +120,15 @@ I proudly work at **Cyan Diamond Studio** 🌟, a vibrant game/app development s
         <td><b>Introduction to Cybersecurity</b></td>
         <td>Cisco Networking Academy</td>
         <td>24 Oct 2026</td>
-        <td><code>bc185710-7936-4ce4-b676-bdf69d86b561</code></td>
+        <td>
+          <code>bc185710-7936-4ce4-b676-bdf69d86b561</code><br/>
+          <a href="https://www.netacad.com/recognitions/verify/bc185710-7936-4ce4-b676-bdf69d86b561" target="_blank">🔗 Verify Online</a>
+        </td>
+        <td align="center">
+          <a href="https://www.netacad.com/recognitions/verify/bc185710-7936-4ce4-b676-bdf69d86b561" target="_blank">
+            <img src="certificate-qr.png" alt="Certificate QR Code" width="110" />
+          </a>
+        </td>
       </tr>
     </tbody>
   </table>
