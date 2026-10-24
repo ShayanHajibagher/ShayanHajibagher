@@ -1,4 +1,5 @@
 @keyframes fill50 { from { width: 0%; } to { width: 50%; } }
+@keyframes fill60 { from { width: 0%; } to { width: 60%; } }
 @keyframes fill70 { from { width: 0%; } to { width: 70%; } }
 @keyframes fill40 { from { width: 0%; } to { width: 40%; } }
 @keyframes pulse {

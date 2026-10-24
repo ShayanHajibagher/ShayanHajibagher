@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="styles.css">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=🎮+Game+Developer;💻+Vibe+Coder;🌟+HTML+Enthusiast;🚀+GDScript+Wizard;🎯+Creative+Innovator;💎+Cyan+Diamond+Member" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=🎮+Game+Developer;💻+Vibe+Coder;🛡️+Cybersecurity+Learner;🌟+HTML+Enthusiast;🚀+GDScript+Wizard;🎯+Creative+Innovator;💎+Cyan+Diamond+Member" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,7 +12,7 @@
 
 Hey there! 👋 I'm **Shayan**, a passionate **game developer** and **vibe coder** who loves crafting immersive gaming experiences. When I'm not coding, I'm vibing to some chill beats and experimenting with **HTML** to make the web more fun and interactive. My go-to language for game dev is **GDScript** – it's powerful, fun, and lets me bring my wildest ideas to life! 🎮✨
 
-I'm always learning, creating, and pushing the boundaries of what's possible in the gaming world. Whether it's building pixel-perfect worlds or adding that extra flair to a web page, I thrive on creativity and innovation. Let's build something amazing together! 🚀
+I'm always learning, creating, and pushing the boundaries of what's possible in the gaming and tech world—including expanding my knowledge in **Cybersecurity**. Whether it's building pixel-perfect worlds, securing digital environments, or adding that extra flair to a web page, I thrive on creativity and innovation. Let's build something amazing together! 🚀
 
 ---
 
@@ -33,11 +33,14 @@ I proudly work at **Cyan Diamond Studio** 🌟, a vibrant game/app development s
 ## 🛠️ Skills & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=gamedev,gdscript,html,godot,python" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=gamedev,gdscript,html,godot,python,linux" alt="Skills" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Cisco_Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Badge" />
 </div>
 
 - 🎮 **Game Development**: GDScript (Godot)
 - 💻 **Web Development**: HTML (some knowledge)
+- 🛡️ **Cybersecurity**: Introduction to Cybersecurity (Cisco Networking Academy Certified)
 - 🌟 **Other Vibes**: Python for scripting, creative coding(with ai)
 - 🎨 **Creative Tools**: Pixel art, game design, UI/UX for games
 
@@ -51,7 +54,7 @@ I proudly work at **Cyan Diamond Studio** 🌟, a vibrant game/app development s
       <td><b>GDScript</b> 🎮</td>
       <td>
         <div style="background: #ddd; width: 200px; height: 25px; border-radius: 12.5px; position: relative;">
-          <div style="background: linear-gradient(90deg, #00ff00, #00aa00); height: 100%; border-radius: 12.5px; animation: fill50 2s ease-in-out;"></div>
+          <div style="background: linear-gradient(90deg, #00ff00, #00aa00); width: 50%; height: 100%; border-radius: 12.5px; animation: fill50 2s ease-in-out;"></div>
           <span style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); color: white; font-weight: bold; line-height: 25px;">50%</span>
         </div>
       </td>
@@ -60,8 +63,17 @@ I proudly work at **Cyan Diamond Studio** 🌟, a vibrant game/app development s
       <td><b>HTML</b> 🌐</td>
       <td>
         <div style="background: #ddd; width: 200px; height: 25px; border-radius: 12.5px; position: relative;">
-          <div style="background: linear-gradient(90deg, #ff4500, #ff6600); height: 100%; border-radius: 12.5px; animation: fill50 2s ease-in-out;"></div>
+          <div style="background: linear-gradient(90deg, #ff4500, #ff6600); width: 50%; height: 100%; border-radius: 12.5px; animation: fill50 2s ease-in-out;"></div>
           <span style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); color: white; font-weight: bold; line-height: 25px;">50%</span>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Cybersecurity</b> 🛡️</td>
+      <td>
+        <div style="background: #ddd; width: 200px; height: 25px; border-radius: 12.5px; position: relative;">
+          <div style="background: linear-gradient(90deg, #1BA0D7, #005073); width: 60%; height: 100%; border-radius: 12.5px; animation: fill60 2s ease-in-out;"></div>
+          <span style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); color: white; font-weight: bold; line-height: 25px;">60%</span>
         </div>
       </td>
     </tr>
@@ -69,7 +81,7 @@ I proudly work at **Cyan Diamond Studio** 🌟, a vibrant game/app development s
       <td><b>Art</b> 🎨</td>
       <td>
         <div style="background: #ddd; width: 200px; height: 25px; border-radius: 12.5px; position: relative;">
-          <div style="background: linear-gradient(90deg, #ff69b4, #dda0dd); height: 100%; border-radius: 12.5px; animation: fill70 2s ease-in-out;"></div>
+          <div style="background: linear-gradient(90deg, #ff69b4, #dda0dd); width: 70%; height: 100%; border-radius: 12.5px; animation: fill70 2s ease-in-out;"></div>
           <span style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); color: white; font-weight: bold; line-height: 25px;">70%</span>
         </div>
       </td>
@@ -78,11 +90,36 @@ I proudly work at **Cyan Diamond Studio** 🌟, a vibrant game/app development s
       <td><b>Pixel Art</b> 🖼️</td>
       <td>
         <div style="background: #ddd; width: 200px; height: 25px; border-radius: 12.5px; position: relative;">
-          <div style="background: linear-gradient(90deg, #1e90ff, #00bfff); height: 100%; border-radius: 12.5px; animation: fill40 2s ease-in-out;"></div>
+          <div style="background: linear-gradient(90deg, #1e90ff, #00bfff); width: 40%; height: 100%; border-radius: 12.5px; animation: fill40 2s ease-in-out;"></div>
           <span style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); color: white; font-weight: bold; line-height: 25px;">40%</span>
         </div>
       </td>
     </tr>
+  </table>
+</div>
+
+---
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>🏅 Certificate</th>
+        <th>🏛️ Issuing Organization</th>
+        <th>📅 Completion Date</th>
+        <th>🔑 Certificate ID</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>Introduction to Cybersecurity</b></td>
+        <td>Cisco Networking Academy</td>
+        <td>24 Oct 2026</td>
+        <td><code>bc185710-7936-4ce4-b676-bdf69d86b561</code></td>
+      </tr>
+    </tbody>
   </table>
 </div>
 
