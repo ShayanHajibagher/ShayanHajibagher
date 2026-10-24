@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="styles.css">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=🎮+Game+Developer;💻+Vibe+Coder;🛡️+Cybersecurity+Learner;🌟+HTML+Enthusiast;🚀+GDScript+Wizard;🎯+Creative+Innovator;💎+Cyan+Diamond+Member" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=🎮+Game+Developer;💻+Vibe+Coder;🛡️+Cybersecurity+Learner;🤖+AI+Enthusiast;🌟+HTML+Enthusiast;🚀+GDScript+Wizard;🎯+Creative+Innovator;💎+Cyan+Diamond+Member" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,7 +12,7 @@
 
 Hey there! 👋 I'm **Shayan**, a passionate **game developer** and **vibe coder** who loves crafting immersive gaming experiences. When I'm not coding, I'm vibing to some chill beats and experimenting with **HTML** to make the web more fun and interactive. My go-to language for game dev is **GDScript** – it's powerful, fun, and lets me bring my wildest ideas to life! 🎮✨
 
-I'm always learning, creating, and pushing the boundaries of what's possible in the gaming and tech world—including expanding my knowledge in **Cybersecurity**. Whether it's building pixel-perfect worlds, securing digital environments, or adding that extra flair to a web page, I thrive on creativity and innovation. Let's build something amazing together! 🚀
+I'm always learning, creating, and pushing the boundaries of what's possible in the gaming and tech world—including expanding my knowledge in **Cybersecurity** and **Artificial Intelligence**. Whether it's building pixel-perfect worlds, securing digital environments, or adding that extra flair to a web page, I thrive on creativity and innovation. Let's build something amazing together! 🚀
 
 ---
 
@@ -38,12 +38,15 @@ I proudly work at **Cyan Diamond Studio** 🌟, a vibrant game/app development s
   <a href="https://www.netacad.com/recognitions/verify/bc185710-7936-4ce4-b676-bdf69d86b561" target="_blank">
     <img src="https://img.shields.io/badge/Cybersecurity-Cisco_Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Badge" />
   </a>
+  <a href="https://starcoach.ir/certificate/STC20264190" target="_blank">
+    <img src="https://img.shields.io/badge/AI_&_Tech-Starcoach_Certified-8A2BE2?style=for-the-badge&logo=sparkles&logoColor=white" alt="Starcoach Certificate Badge" />
+  </a>
 </div>
 
 - 🎮 **Game Development**: GDScript (Godot)
 - 💻 **Web Development**: HTML (some knowledge)
 - 🛡️ **Cybersecurity**: Introduction to Cybersecurity ([Cisco Networking Academy Certified](https://www.netacad.com/recognitions/verify/bc185710-7936-4ce4-b676-bdf69d86b561))
-- 🌟 **Other Vibes**: Python for scripting, creative coding(with ai)
+- 🤖 **AI & Creative Vibes**: Python for scripting, creative coding with AI ([Starcoach Certified](https://starcoach.ir/certificate/STC20264190))
 - 🎨 **Creative Tools**: Pixel art, game design, UI/UX for games
 
 ---
@@ -80,6 +83,15 @@ I proudly work at **Cyan Diamond Studio** 🌟, a vibrant game/app development s
       </td>
     </tr>
     <tr>
+      <td><b>AI & Tech</b> 🤖</td>
+      <td>
+        <div style="background: #ddd; width: 200px; height: 25px; border-radius: 12.5px; position: relative;">
+          <div style="background: linear-gradient(90deg, #8A2BE2, #4B0082); width: 65%; height: 100%; border-radius: 12.5px; animation: fill65 2s ease-in-out;"></div>
+          <span style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); color: white; font-weight: bold; line-height: 25px;">65%</span>
+        </div>
+      </td>
+    </tr>
+    <tr>
       <td><b>Art</b> 🎨</td>
       <td>
         <div style="background: #ddd; width: 200px; height: 25px; border-radius: 12.5px; position: relative;">
@@ -110,7 +122,7 @@ I proudly work at **Cyan Diamond Studio** 🌟, a vibrant game/app development s
       <tr>
         <th>🏅 Certificate</th>
         <th>🏛️ Issuing Organization</th>
-        <th>📅 Completion Date</th>
+        <th>📅 Date</th>
         <th>🔑 Certificate ID & Verification</th>
         <th>📱 Scan to Verify (QR)</th>
       </tr>
@@ -126,7 +138,21 @@ I proudly work at **Cyan Diamond Studio** 🌟, a vibrant game/app development s
         </td>
         <td align="center">
           <a href="https://www.netacad.com/recognitions/verify/bc185710-7936-4ce4-b676-bdf69d86b561" target="_blank">
-            <img src="certificate-qr.png" alt="Certificate QR Code" width="110" />
+            <img src="certificate-qr.png" alt="Cisco Certificate QR Code" width="110" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td><b>AI & Tech Program</b></td>
+        <td>Starcoach (استارکوچ)</td>
+        <td>2026</td>
+        <td>
+          <code>STC20264190</code><br/>
+          <a href="https://starcoach.ir/certificate/STC20264190" target="_blank">🔗 Verify Online</a>
+        </td>
+        <td align="center">
+          <a href="https://starcoach.ir/certificate/STC20264190" target="_blank">
+            <img src="starcoach-qr.png" alt="Starcoach Certificate QR Code" width="110" />
           </a>
         </td>
       </tr>
